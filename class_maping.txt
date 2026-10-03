@@ -1,0 +1,12 @@
+we found class as 
+
+Class 0 → Ferric Profile 
+
+Class 1 → Phosphate-Depleted Profile
+
+Class 2 → Dissolved-Solids Profile
+
+Class 3 → Oxygen-Demand Profile
+
+Class 4 → Neutral Baseline Profile
+
