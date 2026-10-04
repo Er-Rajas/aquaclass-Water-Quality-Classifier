@@ -2,6 +2,5 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 *.pyc
-data/*.csv
-data/*.xlsx
-data/*.json
+notebooks/catboost_info
+models/*.joblib
